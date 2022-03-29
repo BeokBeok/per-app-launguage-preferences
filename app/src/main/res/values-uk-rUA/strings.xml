@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">per-app-language-preferences</string>
+    <string name="hello_android">Hello Android!(UA)</string>
+</resources>
